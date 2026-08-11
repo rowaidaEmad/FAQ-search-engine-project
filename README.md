@@ -51,3 +51,14 @@ question_search/
 The Banking77 training split is the searchable corpus, matching the notebook.
 The test split was used only for notebook evaluation and is not needed by the
 interactive application.
+
+## some examples to try at run
+
+- Where is the card that I ordered?
+- How do I activate my new card?
+- I forgot my PIN. What should I do?
+- Why was my cash withdrawal declined?
+- Why is my bank transfer still pending?
+- How can I cancel a transfer?
+- I don’t recognize this card payment.
+- Why was I charged twice for the same purchase?
