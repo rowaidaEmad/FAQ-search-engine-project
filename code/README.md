@@ -1,3 +1,7 @@
+
+## UI
+![alt text](image.png)
+
 # Similar Question Search
 
 A small Streamlit application that retrieves similar questions from the
