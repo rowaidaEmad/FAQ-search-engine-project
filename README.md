@@ -1,6 +1,6 @@
 
 ## UI
-![alt text](image.png)
+![alt text](code\image.png)
 
 # Similar Question Search
 
